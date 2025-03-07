@@ -1,0 +1,3 @@
+hello file2
+Contenu supplémentaire pour file2
+Contenu supplémentaire pour file2
